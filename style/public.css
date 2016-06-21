@@ -1,0 +1,68 @@
+html, body {
+  font-family: "Microsoft YaHei"; }
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, select, p, blockquote, th, td, img, a {
+  margin: 0;
+  padding: 0; }
+
+table {
+  border-collapse: collapse; }
+
+a fieldset, img {
+  border: 0; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%;
+  font-weight: normal; }
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td {
+  padding: 0;
+  margin: 0;
+  list-style: none; }
+
+a {
+  outline: none; }
+
+a:link, a:visited {
+  text-decoration: none; }
+
+a:hover {
+  text-decoration: none; }
+
+a, img {
+  border: none; }
+
+input, textarea {
+  outline: none;
+  resize: none; }
+
+button, input, textarea, select, optgroup, option, file {
+  font-family: inherit;
+  font-size: inherit;
+  font-style: inherit;
+  font-weight: inherit;
+  outline: none; }
+
+.hide {
+  display: none; }
+
+input[type=text], input[type=password], input[type=tel], textarea {
+  -webkit-appearance: none;
+  appearance: none;
+  border: 1px solid #f0f0f0;
+  border-radius: 0;
+  outline: none; }
+
+input[type="search"] {
+  -webkit-appearance: none; }
+
+input::-webkit-search-cancel-button {
+  display: none; }
+
+* {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box; }
+
+/*# sourceMappingURL=public.css.map */
